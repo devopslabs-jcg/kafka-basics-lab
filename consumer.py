@@ -9,7 +9,7 @@ consumer = KafkaConsumer(
     value_deserializer=lambda m: m.decode('utf-8')
 )
 
-print("✅ Start consuming messages...")
+print(" Start consuming messages...")
 try:
     for message in consumer:
         print(f"Received: '{message.value}' from Topic '{message.topic}'")
