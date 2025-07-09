@@ -6,6 +6,11 @@
 
 ## 아키텍처
 
+![Kafdrop Success Screen]
+(<img width="1072" height="782" alt="Image" src="https://github.com/user-attachments/assets/3c4221a1-8cb4-4e8f-9509-a0768fc8aa8a" />)
+
+(<img width="1031" height="851" alt="Image" src="https://github.com/user-attachments/assets/0fcadd69-ebc7-4741-8c3d-d9d31aa94607" />)
+
 -   **Zookeeper:** 카프카 클러스터의 메타데이터 관리 및 브로커 상태 모니터링.
 -   **Kafka Broker:** 메시지 수신, 디스크 저장, 컨슈머 요청에 따른 메시지 제공.
 -   **Producer (`producer.py`):** `hello-kafka` 토픽으로 1초마다 메시지 발행.
