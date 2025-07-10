@@ -6,7 +6,7 @@
 
 ## 아키텍처
 
-[Kafdrop Success Screen]
+**[Kafdrop Success Screen]**
 <img width="1072" height="782" alt="Image" src="https://github.com/user-attachments/assets/3c4221a1-8cb4-4e8f-9509-a0768fc8aa8a" />
 
 <img width="1031" height="851" alt="Image" src="https://github.com/user-attachments/assets/0fcadd69-ebc7-4741-8c3d-d9d31aa94607" />
